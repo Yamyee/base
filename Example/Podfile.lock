@@ -1,22 +1,15 @@
 PODS:
-  - yybase (0.1.0):
-    - yyswiftmodule
-  - yyswiftmodule (0.2.0)
+  - yybase (0.1.3)
 
 DEPENDENCIES:
   - yybase (from `../`)
-
-SPEC REPOS:
-  https://github.com/Yamyee/Spces.git:
-    - yyswiftmodule
 
 EXTERNAL SOURCES:
   yybase:
     :path: "../"
 
 SPEC CHECKSUMS:
-  yybase: b60b197e2fa296acab310a08cc6a1f42170c466c
-  yyswiftmodule: 3806ae083861314560c4c8246d9b09c771d495a4
+  yybase: b2d7661b301a268763914965509b61e6829ef981
 
 PODFILE CHECKSUM: 8fc1c16b493699f309f80d246df8d27703c1824d
 
