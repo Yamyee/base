@@ -1,0 +1,6 @@
+framework module yyswiftmodule {
+  umbrella header "yyswiftmodule-umbrella.h"
+
+  export *
+  module * { export * }
+}

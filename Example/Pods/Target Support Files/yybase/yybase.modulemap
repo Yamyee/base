@@ -1,0 +1,6 @@
+framework module yybase {
+  umbrella header "yybase-umbrella.h"
+
+  export *
+  module * { export * }
+}
